@@ -1,0 +1,2 @@
+:chobak-lang=yes:
+:on-absent-template=warn:
